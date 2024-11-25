@@ -1,5 +1,6 @@
-# Libft
+![Project Page](success.png)
 
+# Libft
 Libft is a library of essential C functions, created to simplify common operations like string manipulation, memory management, and linked list handling.
 
 ## Table of Contents
@@ -55,4 +56,4 @@ Libft is a library of essential C functions, created to simplify common operatio
 8. **ft_lstnew** - Creates a new linked list node.
 9. **ft_lstsize** - Returns the number of nodes in the linked list.
 
-Note: This project is private and shared solely for evaluation purposes. Unauthorized use, duplication, or distribution is strictly prohibited.
+**Note: This project is private and shared solely for evaluation purposes. Unauthorized use, duplication, or distribution is strictly prohibited.**
