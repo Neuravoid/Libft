@@ -54,3 +54,5 @@ Libft is a library of essential C functions, created to simplify common operatio
 7. **ft_lstmap** - Creates a new list by applying a function to each node in an existing list.
 8. **ft_lstnew** - Creates a new linked list node.
 9. **ft_lstsize** - Returns the number of nodes in the linked list.
+
+Note: This project is private and shared solely for evaluation purposes. Unauthorized use, duplication, or distribution is strictly prohibited.
